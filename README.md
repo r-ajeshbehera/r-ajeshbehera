@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @r-ajeshbehera
+- 👋 Hi, I’m Rajesh Behera (@r-ajeshbehera) 
 
 👀 I’m interested in writing, content creation, programming, and solving different Project-based program problems, especially in web development.
 🌱 I’m currently learning softwere developing & different project programming.
