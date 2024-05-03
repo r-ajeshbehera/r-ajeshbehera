@@ -1,5 +1,9 @@
-- NAMASKAR 🙏, I’m Rajesh Behera 
-              -Digital creator. 
+- NAMASKAR 🙏,
+- I’m RAJESH BEHERA,
+- Digital creator. 
+-[Writer | Content creator | Programmer | Web designer]
+-"Let's collaborate on your next project!"
+
 
 -I’m interested in writing, content creation, programming, and solving different Project-based program problems, especially in web development.
 -I’m currently learning softwere developing & different project programming.
