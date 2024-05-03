@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Rajesh Behera 
-            -Digital creator. 
+- NAMASKAR 🙏, I’m Rajesh Behera 
+              -Digital creator. 
 
-👀 I’m interested in writing, content creation, programming, and solving different Project-based program problems, especially in web development.
-🌱 I’m currently learning softwere developing & different project programming.
-💞️ I’m looking to collaborate on web development projects.
-📫 You can reach me via 
+-I’m interested in writing, content creation, programming, and solving different Project-based program problems, especially in web development.
+-I’m currently learning softwere developing & different project programming.
+-I’m looking to collaborate on web development projects.
+-You can reach me via 
    Gmail    : rb450637@gmail.com.
    instagram: r_ajeshbehera 
    facebook : Rajesh Behera 
