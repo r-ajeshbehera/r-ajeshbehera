@@ -9,7 +9,7 @@
 -I’m currently learning softwere developing & different project programming.
 -I’m looking to collaborate on web development projects.
 -You can reach me via 
-   Gmail    : rb450637@gmail.com.
+   Gmail    : rajeshbehera.works@gmail.com
    instagram: r_ajeshbehera 
    facebook : Rajesh Behera 
    twitter  : R_ajeshbehera 
