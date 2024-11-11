@@ -1,4 +1,6 @@
 - 👋 Hi, I’m RAJESH BEHERA (@r-ajeshbehera).
+              [ WEB DEVELOPER ]
+-          
 -    [BSC COMPUTER SCIENCE STUDENT]
 - 👀 I’m interested in SOFTWARE DEVELOPMENT.
 - 🌱 I’m currently learning PYTHON WITH IT'S DIFFERENT PROJECTS.
