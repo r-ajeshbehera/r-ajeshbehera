@@ -16,3 +16,12 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: PROGRAMMING,READING,TRAVELLING AND with a passion for coding and innovation.
 - Feel free to explore my repositories and reach out if you'd like to discuss potential collaborations or projects!
+
+Get in touch:
+
+Instagram-[ https://www.instagram.com/r_ajeshbehera ]
+Facebook-[ https://www.facebook.com/profile.php?id=100082330121284&mibextid=ZbWKwL ]
+Twitter-[ https://x.com/R_ajeshbehera ]
+Youtube-[ https://www.youtube.com/@r_ajeshbehera ]
+Website-[ https://sites.google.com/view/r-ajeshbehera ]
+
