@@ -12,7 +12,7 @@
 -    Let's Connect!
   
 - 💞️ I've worked on various SOFTWARE DEVELOPMENT projects, Now looking to collaborate on different OPEN-SOURCE SOFTWARE PROJECTS.
-- 📫 To reach me mail :-[ rajeshbehera.work@gmail.com ]
+- 📫 To reach me mail :-[ rajeshbehera.works@gmail.com ]
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: PROGRAMMING,READING,TRAVELLING AND with a passion for coding and innovation.
 - Feel free to explore my repositories and reach out if you'd like to discuss potential collaborations or projects!
