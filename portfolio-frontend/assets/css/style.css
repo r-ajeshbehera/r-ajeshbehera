@@ -1,0 +1,25 @@
+body {
+          font-family: Arial, sans-serif;
+      }
+      section {
+          min-height: 400px;
+      }
+      .star {
+          font-size: 24px;
+          color: #ccc;
+          cursor: pointer;
+      }
+      .star.selected {
+          color: #ffc107;
+      }
+      .navbar-nav .nav-link {
+          margin-left: 15px;
+      }
+      @media (max-width: 768px) {
+          .navbar-nav {
+              text-align: center;
+          }
+          .projects{
+              height: 100%;
+          }
+      }
