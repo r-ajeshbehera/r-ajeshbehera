@@ -32,7 +32,7 @@
 
 ### 🔧 Core Skills
 
-- **Languages**: Python, JavaScript, SQL  
+- **Languages**: C++, Python, JavaScript, SQL  
 - **Frameworks/Libraries**: React.js, Next.js, Express.js
 - **Styling**: Tailwind CSS  
 - **Database**: Supabase, MySQL  
