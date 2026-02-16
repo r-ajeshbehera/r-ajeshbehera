@@ -1,55 +1,88 @@
-# 👋 Hi, I’m Rajesh Behera
+👋 Hi, I’m Rajesh Behera
 
-**Aspiring Software Engineer | Full-Stack Web Developer | Computer Science Undergrad**
+MCA Student | Java | Data Structures | Aspiring Software Engineer
 
-🚀 I build impactful software solutions that solve real-world problems, focusing on performance, simplicity, and user experience.  
-🧠 Passionate about mastering **Data Structures & Algorithms** and designing scalable web apps that deliver real-time interactivity.
+🚀 About Me
 
----
+I am currently pursuing Master of Computer Applications (MCA) at Silicon University. I am building a strong foundation in Java, Data Structures, Object-Oriented Programming, DBMS, Operating Systems, and Computer Networks.
 
-### 💼 What I Do
+I am focused on strengthening my programming fundamentals and improving my problem-solving skills to prepare for entry-level Software Engineer roles in IT services companies.
 
-- 🧑‍💻 I design and develop **full-stack web applications** using **Next.js, React, Tailwind CSS, Supabase, and MySQL**.
-- ⚙️ I build **real-time feedback systems** using Supabase with real-time listeners for likes/dislikes and comments.
-- 🧩 I implement clean UI/UX using **Figma** and integrate it efficiently into modern frontend stacks.
-- 📚 Currently exploring **core DSA concepts in C++** to crack technical interviews and solve algorithmic problems.
+I enjoy developing practical projects and continuously improving my technical knowledge.
 
----
+💻 Technical Skills
 
-### 🧩 Highlight: My Portfolio Project
+Programming Languages:
 
-**[Personal Developer Portfolio](https://rajeshbehera.vercel.app/)**
+Java
 
-> A fully responsive, real-time interactive portfolio built using **Next.js** and **Supabase**, styled with **Tailwind CSS**.
+C
 
-- 🏗️ Features:
-  - Home, About, Projects, Blog, Contact, and Feedback sections.
-  - Live like/dislike and feedback tracking with Supabase Realtime DB.
-- 🧪 Goal:
-  - Showcase my work, engage users, and collect real-time insights on what resonates.
+Core Subjects:
 
----
+Data Structures
 
-### 🔧 Core Skills
+Object-Oriented Programming (OOP)
 
-- **Languages**: C++, Python, JavaScript, SQL  
-- **Frameworks/Libraries**: React.js, Next.js, Express.js
-- **Styling**: Tailwind CSS  
-- **Database**: Supabase, MySQL  
-- **Tools**: Git, GitHub, Figma  
-- **Soft Skills**: Team Management, Public Speaking
+Database Management Systems (DBMS)
 
----
+Operating Systems
 
-### 🧠 Current Focus
+Computer Networks
 
-- Mastering **C++ with DSA** to improve problem-solving and system design skills.
-- Practicing regularly on **LeetCode**, **GFG**, and **Codeforces** for competitive programming.
-- Exploring **open-source software development** and contributing to meaningful projects.
+Web Technologies:
 
----
+HTML
 
-### 📬 Let’s Connect
+CSS
 
-If you're a recruiter, fellow developer, or mentor looking to collaborate, feel free to reach out.  
-I’m actively looking for **internship/full-time roles** in **Software Engineering** where I can contribute, learn, and grow.
+JavaScript
+
+Database:
+
+MySQL
+
+MongoDB (Basic)
+
+Tools:
+
+Git
+
+GitHub
+
+VS Code
+
+📂 Projects
+🔹 Automated Exam Portal
+
+A web-based application that allows teachers to create and manage exams and students to attempt tests and view results.
+
+Technologies Used: PHP, MySQL, HTML, CSS
+
+Features:
+
+Exam creation and management
+
+Student login and result display
+
+Database integration for performance tracking
+
+🔹 Personal Portfolio Website
+
+A responsive portfolio website built to showcase projects and skills.
+
+Technologies Used: Next.js, React, Tailwind CSS
+
+🎯 Current Focus
+
+Strengthening Java fundamentals
+
+Practicing Data Structures problems
+
+Improving SQL query writing
+
+Preparing for campus placement interviews
+
+📬 Connect With Me
+
+I am open to entry-level Software Engineer and IT roles where I can learn, contribute, and grow professionally.
