@@ -1,6 +1,6 @@
 👋 Hi, I’m Rajesh Behera
 
-MCA Student | Java | Data Structures | Aspiring Software Engineer
+MCA Student | Java | Data Structures | DBMS | Aspiring Software Engineer
 
 🚀 About Me
 
