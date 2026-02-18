@@ -1,95 +1,96 @@
-👋 Hi, I’m Rajesh Behera
+
+
+ 👋 Rajesh Behera
 
 MCA Student | Java | Data Structures | DBMS | Aspiring Software Engineer
 
-🚀 About Me
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-I am currently pursuing Master of Computer Applications (MCA) at Silicon University. I am building a strong foundation in Java, Data Structures, Object-Oriented Programming, DBMS, Operating Systems, and Computer Networks.
+ 🚀 Professional Summary
 
-I am focused on strengthening my programming fundamentals and improving my problem-solving skills in preparation for entry-level Software Engineer roles in IT services companies.
+I am currently pursuing a Master of Computer Applications (MCA) at Silicon University, with a strong focus on Java programming and core computer science fundamentals.
 
-I enjoy building practical projects and continuously enhancing my technical knowledge through consistent learning and hands-on development.
+I am building a solid foundation in Data Structures, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks. My primary goal is to strengthen my programming fundamentals and enhance my problem-solving abilities in preparation for entry-level Software Engineer roles in IT services organizations.
 
-💻 Technical Skills
-Programming Languages
+I am committed to continuous learning and hands-on development through practical project implementation.
 
-Java
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-C
+ 💻 Technical Skills
 
-Core Computer Science Subjects
+ Programming Languages
 
-Data Structures
+* Java
+* C
 
-Object-Oriented Programming (OOP)
+ Core Computer Science Subjects
 
-Database Management Systems (DBMS)
+* Data Structures
+* Object-Oriented Programming (OOP)
+* Database Management Systems (DBMS)
+* Operating Systems
+* Computer Networks
 
-Operating Systems
+ Web Technologies
 
-Computer Networks
+* HTML
+* CSS
+* JavaScript
 
-Web Technologies
+ Database
 
-HTML
+* MySQL
+* MongoDB (Basic)
 
-CSS
+ Tools
 
-JavaScript
+* Git
+* GitHub
+* VS Code
 
-Database
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-MySQL
+ 📂 Projects
 
-MongoDB (Basic)
-
-Tools
-
-Git
-
-GitHub
-
-VS Code
-
-📂 Projects
 🔹 Automated Exam Portal
 
 A web-based application developed to automate the creation and management of MCQ-based examinations.
 
-Technologies Used: PHP, MySQL, HTML, CSS
+Technologies Used:** PHP, MySQL, HTML, CSS
 
-Key Features:
+Key Responsibilities & Features:
 
-Teacher-based exam creation and management
+* Designed and implemented teacher-based exam creation and management system
+* Developed student login and automated result generation module
+* Integrated MySQL database for structured storage of questions and results
+* Implemented automatic evaluation functionality
 
-Student login and result generation
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-MySQL database integration for storing questions and results
-
-Automatic evaluation system
-
-🔹 Personal Portfolio Website
+ 🔹 Personal Portfolio Website
 
 A responsive portfolio website developed to showcase projects and technical skills.
 
-Technologies Used: Next.js, React, Tailwind CSS
+**Technologies Used:** Next.js, React, Tailwind CSS
 
-Implemented dynamic routing and responsive UI
+Key Features:
 
-Optimized performance for faster loading
+* Implemented dynamic routing and responsive user interface
+* Optimized performance for improved loading speed
+* Deployed using modern frontend development practices
 
-Deployed using modern frontend practices
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🎯 Current Focus
+ 🎯 Current Focus
 
-Strengthening Java fundamentals
+* Strengthening Java fundamentals
+* Practicing Data Structures problem-solving
+* Improving SQL query writing skills
+* Preparing for campus placement technical interviews
 
-Practicing Data Structures problems
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Improving SQL query writing
+ 📬 Career Objective
 
-Preparing for campus placement technical interviews
+I am actively seeking entry-level Software Engineer opportunities where I can apply my technical knowledge, contribute effectively to software development, and grow as a technology professional.
 
-📬 Connect With Me
-
-I am open to entry-level Software Engineer and IT roles where I can apply my knowledge, contribute effectively, and continue growing as a software professional.
