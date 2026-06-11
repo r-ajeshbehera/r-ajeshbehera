@@ -2,7 +2,7 @@
 
  👋 Rajesh Behera
 
-MCA Student | Java | Data Structures | DBMS | Aspiring Software Engineer
+🚀 Aspiring Software Engineer | Java | DSA | SQL & DBMS | MCA Student @ Silicon University
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -56,7 +56,7 @@ I am committed to continuous learning and hands-on development through practical
 
 A web-based application developed to automate the creation and management of MCQ-based examinations.
 
-Technologies Used:** PHP, MySQL, HTML, CSS
+Technologies Used: PHP, MySQL, HTML, CSS
 
 Key Responsibilities & Features:
 
@@ -71,7 +71,7 @@ Key Responsibilities & Features:
 
 A responsive portfolio website developed to showcase projects and technical skills.
 
-**Technologies Used:** Next.js, React, Tailwind CSS
+Technologies Used: Next.js, React, Tailwind CSS
 
 Key Features:
 
@@ -92,5 +92,4 @@ Key Features:
 
  📬 Career Objective
 
-I am actively seeking entry-level Software Engineer opportunities where I can apply my technical knowledge, contribute effectively to software development, and grow as a technology professional.
-
+I am actively strengthening my skills in Java, Data Structures & Algorithms, DBMS, Operating Systems, and Computer Networks while building projects and preparing for software engineering opportunities.
