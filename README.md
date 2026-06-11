@@ -3,7 +3,9 @@
  👋 Rajesh Behera
 
 🚀 Aspiring Software Engineer | MCA Student @ Silicon University
+
 💻 Java | DSA | SQL | DBMS | Full Stack Development
+
 📚 Currently Learning: Java, DSA, System Design Fundamentals
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
