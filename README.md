@@ -36,13 +36,14 @@ security, concurrency, and tests that prove it works.
 
 | Project | What it does | Highlights |
 |---|---|---|
-| 🏛️ **[JanSunwai](https://github.com/r-ajeshbehera/jansunwai)** | AI-powered civic grievance system: citizens complain in English, Hindi or Odia | Spring AI with human review · duplicate detection across languages (pgvector + PostGIS) · exactly-once SLA escalation · 100 tests |
+| 🏛️ **[JanSunwai](https://github.com/r-ajeshbehera/jansunwai)** | AI-powered civic grievance system: citizens complain in English, Hindi or Odia | Spring AI with human review · duplicate detection across languages (pgvector + PostGIS) · exactly-once SLA escalation · 70+ automated tests |
 | 🤝 **[MilanSetu](https://github.com/r-ajeshbehera/milansetu)** | Reunites lost children and elderly people with families at festivals like Rath Yatra | QR wristbands · explainable matching engine · OTP-verified handover safe under concurrency |
 | 🌀 **[AashrayNet](https://github.com/r-ajeshbehera/aashraynet)** | Cyclone shelter and relief management for Odisha districts | nearest shelter with free places · live occupancy · supply shortage alerts · race-safe check-in |
+| 🏫 **Siksha Sadan** ([live site](https://sikshasadan.com)) | MCA final-year project: school management system running live for Siksha Sadan Saintala, Bolangir | admissions · fee collection · class promotion · admin panel · Spring Boot 3 + Spring Security/JWT + MySQL · Docker (team project, I worked on the backend) |
 | 🎓 **[CampusHire](https://github.com/r-ajeshbehera/placement-management-system)** | Campus placement management for students, recruiters and coordinators | Spring Boot 3 · JWT · role-based portals · Docker · CI |
 | 🛡️ **[SentinelX](https://github.com/r-ajeshbehera/cyber-security-management-system)** | Security Operations Center platform | alert triage · incident response · threat intelligence · RBAC |
 
-Each featured repo has a demo video or screenshots, architecture docs, a Postman collection and one-command Docker setup.
+JanSunwai, MilanSetu and AashrayNet include demo videos, architecture docs and automated tests. Every GitHub-hosted featured project ships a Postman collection and runs with one `docker compose up` command.
 
 ### ☕ Core Java projects (built from scratch, no framework)
 
